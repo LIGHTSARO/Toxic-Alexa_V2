@@ -13,7 +13,7 @@
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@TURBOHYPER/Toxic-AlexaV2?v=1)
 
 ## `Deploy`
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TURBOHYPER/Toxic-Alexa_V2)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TURBOHYPER/SARO-Alexa_V2)
 
  ## `CHANGE SESSION`
 
@@ -21,9 +21,9 @@
 
 ## `SETTINGS`
 
-- CHANGE OWNER NUMBER [Here](https://github.com/TURBOHYPER/Toxic-Alexa_V2/blob/master/settings.json)
-- CHANGE OWNER NAME [Here](https://github.com/TURBOHYPER/Toxic-Alexa_V2/blob/master/settings.json)
-- CHANGE BOT NAME [Here](https://github.com/TURBOHYPER/Toxic-Alexa_V2/blob/master/settings.json)
+- CHANGE OWNER NUMBER [Here](https://github.com/TURBOHYPER/SARO-Soltan_V2/blob/master/settings.json)
+- CHANGE OWNER NAME [Here](https://github.com/TURBOHYPER/SARO-Soltan_V2/blob/master/settings.json)
+- CHANGE BOT NAME [Here](https://github.com/TURBOHYPER/SARO-Soltan_V2/blob/master/settings.json)
 
     
 𝗕𝘂𝗶𝗹𝗱𝗽𝗮𝗰𝗸𝘀
@@ -37,9 +37,9 @@ https://github.com/DuckyTeam/heroku-buildpack-imagemagick
 ## Developers
   <div align="center">
     
-  [![Toxic-Turbo](https://github.com/TURBOHYPER.png?size=100)](https://github.com/TURBOHYPER)
+  [![SARO-Turbo](https://github.com/TURBOHYPER.png?size=100)](https://github.com/TURBOHYPER)
 
-[Toxic-Turbo](https://github.com/TURBOHYPER)        
+[SARO-Turbo](https://github.com/TURBOHYPER)        
 Developer, Base, Bug Fixes, Modules
 
   
@@ -47,10 +47,10 @@ Developer, Base, Bug Fixes, Modules
   <a href="https://github.com/TURBOHYPER"><img title="Author" src="https://img.shields.io/badge/Author-TURBOHYPER-orange.svg?style=for-the-badge&logo=github" /></a>
 
 <p align="center">
-  <a href="https://github.com/TURBOHYPER/Toxic-Alexa_V2#requirements">Requirements</a> •
-  <a href="https://github.com/TURBOHYPER/Toxic-Alexa_V2#instalasi">Installation</a> •
-  <a href="https://github.com/TURBOHYPER/Toxic-Alexa_V2#features">Features</a> •
-  <a href="https://github.com/TURBOHYPER/Toxic-Alexa_V2#thanks-to">Thanks to</a>
+  <a href="https://github.com/TURBOHYPER/SARO-Soltan_V2#requirements">Requirements</a> •
+  <a href="https://github.com/TURBOHYPER/SARO-Soltan_V2#instalasi">Installation</a> •
+  <a href="https://github.com/TURBOHYPER/SARI-Soltan_V2#features">Features</a> •
+  <a href="https://github.com/TURBOHYPER/SARO-Soltan_V2#thanks-to">Thanks to</a>
 </p>
 </div>
 
@@ -69,8 +69,8 @@ Developer, Base, Bug Fixes, Modules
 # Installation
 ## For Windows
 ```bash
-git clone https://github.com/TURBOHYPER/Toxic-Alexa_V2
-cd Toxic-Alexa_V2
+git clone https://github.com/TURBOHYPER/SARO-Soltan_V2
+cd SARO-Soltan_V2
 npm install
 node index.js
 ```
@@ -79,9 +79,9 @@ node index.js
 apt update && apt upgrade
 pkg update && pkg upgrade
 pkg install git
-git clone https://github.com/TURBOHYPER/Toxic-Alexa_V2
+git clone https://github.com/TURBOHYPER/SARO-Soltan_V2
 ls
-cd Toxic-Alexa_V2
+cd SARO-Soltan_V2
 npm i -g npm@6.14.14
 npm install
 npm audit
@@ -90,4 +90,4 @@ npm start
 ```
 
 # Features
-- [Features](https://github.com/TURBOHYPER/Toxic-Alexa_V2/blob/master/Bosco.js)
+- [Features](https://github.com/TURBOHYPER/SARO-Soltan_V2/blob/master/Bosco.js)
